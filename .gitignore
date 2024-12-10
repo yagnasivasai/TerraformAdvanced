@@ -5,6 +5,8 @@ note.txt
 # .tfstate files
 *.tfstate
 *.tfstate.*
+*.hcl
+*.lock.hcl
 
 # Crash log files
 crash.log
